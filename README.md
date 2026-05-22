@@ -1,4 +1,4 @@
-[![Language](https://img.shields.io/badge/Language-简体中文-blue.svg)](./README_zh.md)
+[![Language](https://img.shields.io/badge/Language-ENGLISH-blue.svg)](./README_en.md)
 
 # 如何将 Python 文件打包为 .exe 可执行程序？
 
