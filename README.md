@@ -1,3 +1,5 @@
+[![Language](https://img.shields.io/badge/Language-简体中文-blue.svg)](./README_zh.md)
+
 # 如何将 Python 文件打包为 .exe 可执行程序？
 
 ## 1.确认环境
